@@ -15,9 +15,9 @@ cd framer-electron
 npm install && npm start
 ```
 
-### Using Framer Studio?
+### Already built your whole app Framer Studio?
 
-Checkout framer-preview
+Checkout [framer-electron-preview](https://github.com/jaredpalmer/framer-electron-preview)
 
 ## What's Electron?
 
