@@ -10,7 +10,7 @@ A basic Electron application needs just these files:
 
 Framer.js comes prepackaged with this project. All you need to do is edit `app.coffee` in the text editor of your choice.
 
-You can learn more about each of Electron-specific components within the [Electron Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
+You can learn more about the Electron-specific components within the [Electron Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
 
 ## To Use
 
