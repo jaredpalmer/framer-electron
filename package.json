@@ -4,9 +4,9 @@
   "description": "A minimal Electron application that bundles Framer.js",
   "main": "main.js",
   "scripts": {
-    "start": "electron main.js",
+    "start": "concurrently --kill-others \"npm run hot\" \"npm run preview\"",
     "hot": "webpack-dev-server",
-    "dev": "concurrently --kill-others \"npm run hot\" \"npm start\""
+    "preview": "electron main.js"
   },
   "repository": {
     "type": "git",
